@@ -12,5 +12,5 @@ One of the projects created by @rafa-speres and @henrigm4626 to study LLMs, SLMs
   *Linux/Mac:
     *source venv/bin/activate
 
-*installing requirements:
+* installing requirements:
   * pip install -r requirements.txt
