@@ -9,8 +9,8 @@ One of the projects created by @rafa-speres and @henrigm4626 to study LLMs, SLMs
 * Starting venv:
   * Windows (PowerShell):
     * .\venv\Scripts\Activate.ps1
-  *Linux/Mac:
-    *source venv/bin/activate
+  * Linux/Mac:
+    * source venv/bin/activate
 
 * installing requirements:
   * pip install -r requirements.txt
